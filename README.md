@@ -1,2 +1,2 @@
 # K-Means-Clustering
-In my project, I have implemented the K-Means Clustering algorithm to effectively partition the dataset into distinct groups.
+In my project, I have implemented the K-Means Clustering algorithm to effectively partition the dataset into distinct groups.By carefully selecting the number of clusters and iterating through the assignment and update steps, I was able to identify and group similar data points, revealing underlying patterns and structures within the data. This approach facilitated meaningful segmentation and analysis, enhancing the overall understanding of the dataset.
